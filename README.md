@@ -2,6 +2,7 @@
 
 
 Comandos a usar:
+<br>
 Planta de agua: !planta ejemplo1
 
 
